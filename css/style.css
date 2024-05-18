@@ -1,0 +1,16 @@
+h1{
+    font-size: 80px !important;
+    font-family: serif;
+}
+p{
+    font-size: 35px !important;
+    margin-block: 35px !important;
+}
+.btnMe{
+    padding: 20PX 50PX !important;
+    background-color: blue !important;
+    transition: all .3s !important;
+}
+.btnMe:hover{
+    background-color: green !important;
+}
